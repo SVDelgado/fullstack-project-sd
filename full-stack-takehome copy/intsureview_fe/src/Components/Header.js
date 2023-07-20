@@ -3,7 +3,7 @@ import React from 'react';
 function Header() {
   return (
     <header>
-        Header / insert Fake Company Name!
+        Ice Cream Survey!
     </header>
   );
 }
